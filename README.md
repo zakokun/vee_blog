@@ -57,6 +57,7 @@ npm run preview  # 本地预览生产构建结果
 .
 ├── public/                 # 静态资源，按原路径直接发布
 │   ├── favicon.ico
+│   ├── favicon.svg
 │   ├── robots.txt
 │   └── images/testing/     # 博客文章中使用的公共图片
 ├── src/
