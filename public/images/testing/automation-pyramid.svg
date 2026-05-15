@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Automation test pyramid</title>
+  <desc id="desc">A testing pyramid with unit tests, API tests, UI tests, and exploratory testing.</desc>
+  <rect width="1200" height="720" fill="#f8fafc"/>
+  <polygon points="600,90 980,610 220,610" fill="#ffffff" stroke="#ccd8d4" stroke-width="4"/>
+  <polygon points="600,90 724,260 476,260" fill="#fee2e2"/>
+  <polygon points="476,260 724,260 820,392 380,392" fill="#fff4d7"/>
+  <polygon points="380,392 820,392 980,610 220,610" fill="#d9f1ee"/>
+  <g font-family="Inter, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="197" fill="#7f1d1d" font-size="32" font-weight="800">UI / E2E</text>
+    <text x="600" y="334" fill="#5b3b00" font-size="32" font-weight="800">API / Contract</text>
+    <text x="600" y="508" fill="#0f3f3a" font-size="36" font-weight="800">Unit / Component</text>
+    <text x="600" y="658" fill="#334155" font-size="25" font-weight="700">Exploratory testing keeps the pyramid honest</text>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Testing team rhythm board</title>
+  <desc id="desc">A team management board showing one on ones, quality review, pairing, and release retro.</desc>
+  <rect width="1200" height="720" fill="#f7f7f2"/>
+  <rect x="96" y="82" width="1008" height="556" rx="30" fill="#ffffff" stroke="#d8ded8" stroke-width="3"/>
+  <text x="145" y="145" fill="#102a2a" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800">Team Quality Rhythm</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="145" y="208" width="205" height="298" rx="18" fill="#e7f5f2"/>
+    <text x="178" y="262" fill="#0f3f3a" font-size="26" font-weight="800">Monday</text>
+    <text x="178" y="316" fill="#0f3f3a" font-size="22">Risk review</text>
+    <text x="178" y="356" fill="#0f3f3a" font-size="22">Test scope</text>
+    <rect x="385" y="208" width="205" height="298" rx="18" fill="#eef2ff"/>
+    <text x="418" y="262" fill="#27346f" font-size="26" font-weight="800">Tuesday</text>
+    <text x="418" y="316" fill="#27346f" font-size="22">Pair testing</text>
+    <text x="418" y="356" fill="#27346f" font-size="22">Automation</text>
+    <rect x="625" y="208" width="205" height="298" rx="18" fill="#fff4d7"/>
+    <text x="658" y="262" fill="#5b3b00" font-size="26" font-weight="800">Thursday</text>
+    <text x="658" y="316" fill="#5b3b00" font-size="22">1:1 coaching</text>
+    <text x="658" y="356" fill="#5b3b00" font-size="22">Career plan</text>
+    <rect x="865" y="208" width="205" height="298" rx="18" fill="#fee2e2"/>
+    <text x="898" y="262" fill="#7f1d1d" font-size="26" font-weight="800">Friday</text>
+    <text x="898" y="316" fill="#7f1d1d" font-size="22">Release retro</text>
+    <text x="898" y="356" fill="#7f1d1d" font-size="22">Action items</text>
+  </g>
+  <line x1="185" y1="558" x2="1015" y2="558" stroke="#0d9488" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="185" cy="558" r="18" fill="#0d9488"/>
+  <circle cx="462" cy="558" r="18" fill="#0d9488"/>
+  <circle cx="739" cy="558" r="18" fill="#0d9488"/>
+  <circle cx="1015" cy="558" r="18" fill="#0d9488"/>
+</svg>

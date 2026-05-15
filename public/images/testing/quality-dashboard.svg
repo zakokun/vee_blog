@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Quality dashboard illustration</title>
+  <desc id="desc">A clean dashboard with release quality metrics, risk blocks, and defect trends.</desc>
+  <rect width="1200" height="720" fill="#f7f7f2"/>
+  <rect x="88" y="78" width="1024" height="564" rx="28" fill="#ffffff" stroke="#d7ddd4" stroke-width="3"/>
+  <rect x="88" y="78" width="1024" height="82" rx="28" fill="#102a2a"/>
+  <text x="132" y="130" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">Release Quality Dashboard</text>
+  <circle cx="1030" cy="119" r="15" fill="#14b8a6"/>
+  <circle cx="1072" cy="119" r="15" fill="#f59e0b"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="132" y="205" width="224" height="132" rx="18" fill="#e7f5f2"/>
+    <text x="158" y="253" fill="#0f3f3a" font-size="22" font-weight="700">Escaped Defects</text>
+    <text x="158" y="306" fill="#0f3f3a" font-size="54" font-weight="800">3</text>
+    <rect x="392" y="205" width="224" height="132" rx="18" fill="#fff4d7"/>
+    <text x="418" y="253" fill="#5b3b00" font-size="22" font-weight="700">High Risk Areas</text>
+    <text x="418" y="306" fill="#5b3b00" font-size="54" font-weight="800">7</text>
+    <rect x="652" y="205" width="224" height="132" rx="18" fill="#eef2ff"/>
+    <text x="678" y="253" fill="#27346f" font-size="22" font-weight="700">Automation Pass</text>
+    <text x="678" y="306" fill="#27346f" font-size="54" font-weight="800">96%</text>
+    <rect x="132" y="384" width="476" height="192" rx="18" fill="#f8fafc" stroke="#d7ddd4" stroke-width="2"/>
+    <polyline points="168,528 228,500 288,512 348,456 408,472 468,420 548,394" fill="none" stroke="#0d9488" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="168" y="430" fill="#334155" font-size="24" font-weight="700">Defect trend</text>
+    <rect x="652" y="384" width="424" height="192" rx="18" fill="#f8fafc" stroke="#d7ddd4" stroke-width="2"/>
+    <text x="688" y="430" fill="#334155" font-size="24" font-weight="700">Release gate</text>
+    <rect x="690" y="466" width="310" height="24" rx="12" fill="#dbe4e0"/>
+    <rect x="690" y="466" width="246" height="24" rx="12" fill="#0d9488"/>
+    <rect x="690" y="518" width="310" height="24" rx="12" fill="#dbe4e0"/>
+    <rect x="690" y="518" width="182" height="24" rx="12" fill="#f59e0b"/>
+  </g>
+</svg>

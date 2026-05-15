@@ -1,0 +1,30 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { SITE_DATA } from '../constants';
+
+import '../styles/about.css';
+---
+
+<Layout pageTitle="About">
+    <div class="page-container">
+        <h1>About Vee</h1>
+
+        <div class="about-content">
+            <section>
+                <h2>{SITE_DATA.name}</h2>
+                <p class="intro-text">
+                    Vee 是一名测试经理，也是一名资深测试工程师。这个博客用来记录她在质量体系、
+                    测试工程、跨团队协作和测试团队管理中的实践经验。
+                </p>
+            </section>
+
+            <section>
+                <h2>Focus</h2>
+                <p>
+                    这里会写自动化测试、质量度量、发布风险控制、测试平台建设、缺陷复盘、
+                    团队梯队培养，以及测试负责人如何和产品、研发、运维一起把质量做进流程里。
+                </p>
+            </section>
+        </div>
+    </div>
+</Layout>
